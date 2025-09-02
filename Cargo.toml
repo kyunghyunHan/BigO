@@ -1,12 +1,12 @@
 [package]
-name = "kpm-rs"           # 패키지 이름
+name = "kpm-rs"
 version = "0.1.0"
-authors = ["kyunghyunHan <ekfqlwcjswl@naver.com>"]
+authors = ["hangyeonghyeon"]
 edition = "2021"
 description = "Keep Process Manager: Cross-platform process manager in Rust"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/kyunghyunHan/kpm"
+repository = "https://github.com/kyunghyunHan/BigO"
 keywords = ["process", "manager", "cross-platform", "rust"]
-categories = ["command-line-utilities", "system-utilities"]
+categories = ["command-line-utilities"]  # system-utilities -> command-line-utilities
 
 [dependencies]
