@@ -1,5 +1,5 @@
 [package]
-name = "kpm"           # 패키지 이름
+name = "kpm-rs"           # 패키지 이름
 version = "0.1.0"
 authors = ["kyunghyunHan <ekfqlwcjswl@naver.com>"]
 edition = "2021"
